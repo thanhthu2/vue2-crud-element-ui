@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "email": "thanhthu1@gmail.com",
+      "phone": "0585678461",
+      "gender": 0,
+      "dob": "2022-11-08",
+      "department": "hr",
+      "name": "thanh thu 1",
+      "createdAt": "2022-11-30T14:11:52.024Z",
+      "id": 3
+    },
+    {
+      "email": "thanhthu2@gmail.com",
+      "phone": "0585678461",
+      "gender": 0,
+      "dob": "2022-11-30",
+      "department": "hr",
+      "name": "thanh thu 2",
+      "createdAt": "2022-11-30T14:51:15.301Z",
+      "id": 6
+    },
+    {
+      "email": "thanhthu4@gmail.com",
+      "phone": "0585678461",
+      "gender": 1,
+      "dob": "2022-11-30",
+      "department": "dev1",
+      "name": "thanh thu 4",
+      "createdAt": "2022-11-30T15:08:54.659Z",
+      "id": 8
+    },
+    {
+      "email": "thanhthu5@gmail.com",
+      "phone": "0585678461",
+      "gender": 0,
+      "dob": "2022-11-30",
+      "department": "dev1",
+      "name": "thanh thu 3",
+      "createdAt": "2022-11-30T15:14:11.459Z",
+      "id": 9
+    },
+    {
+      "email": "thanhthu6@gmail.com",
+      "phone": "0585678461",
+      "gender": 0,
+      "dob": "2022-11-30",
+      "department": "dev2",
+      "name": "thanh thu 6",
+      "createdAt": "2022-11-30T15:34:45.178Z",
+      "id": 10
+    }
+  ]
+}
