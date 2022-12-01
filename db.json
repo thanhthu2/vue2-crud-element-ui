@@ -1,54 +1,64 @@
 {
   "users": [
     {
-      "email": "thanhthu1@gmail.com",
-      "phone": "0585678461",
-      "gender": 0,
-      "dob": "2022-11-08",
-      "department": "hr",
-      "name": "thanh thu 1",
-      "createdAt": "2022-11-30T14:11:52.024Z",
-      "id": 3
-    },
-    {
-      "email": "thanhthu2@gmail.com",
-      "phone": "0585678461",
-      "gender": 0,
-      "dob": "2022-11-30",
-      "department": "hr",
-      "name": "thanh thu 2",
-      "createdAt": "2022-11-30T14:51:15.301Z",
-      "id": 6
+      "email": "thanhthu3@gmail.com",
+      "phone": "0585678462",
+      "gender": 1,
+      "dob": "2022-12-01",
+      "department": "dev1",
+      "name": "thanh thu 3",
+      "address": "63 le van luong",
+      "position": 2,
+      "createdAt": "2022-12-01T01:53:28.287Z",
+      "id": 5
     },
     {
       "email": "thanhthu4@gmail.com",
-      "phone": "0585678461",
-      "gender": 1,
-      "dob": "2022-11-30",
+      "phone": "0585678464",
+      "gender": 0,
+      "dob": "2022-12-01",
       "department": "dev1",
       "name": "thanh thu 4",
-      "createdAt": "2022-11-30T15:08:54.659Z",
-      "id": 8
+      "address": "64 le van luong",
+      "position": 4,
+      "createdAt": "2022-12-01T07:30:03.376Z",
+      "id": 6
     },
     {
       "email": "thanhthu5@gmail.com",
-      "phone": "0585678461",
+      "phone": "0585678465",
       "gender": 0,
-      "dob": "2022-11-30",
-      "department": "dev1",
-      "name": "thanh thu 3",
-      "createdAt": "2022-11-30T15:14:11.459Z",
-      "id": 9
+      "dob": "2022-12-02",
+      "department": "ccm",
+      "name": "thanh thu 5",
+      "address": "65 le van luong",
+      "position": 3,
+      "createdAt": "2022-12-01T07:33:47.518Z",
+      "id": 7
     },
     {
       "email": "thanhthu6@gmail.com",
       "phone": "0585678461",
       "gender": 0,
-      "dob": "2022-11-30",
-      "department": "dev2",
+      "dob": "2022-12-01",
+      "department": "dev1",
+      "position": 1,
       "name": "thanh thu 6",
-      "createdAt": "2022-11-30T15:34:45.178Z",
-      "id": 10
+      "address": "66 le van luong",
+      "createdAt": "2022-12-01T09:48:38.319Z",
+      "id": 8
+    },
+    {
+      "email": "abc@gmail.com",
+      "phone": "0123456789",
+      "gender": 0,
+      "dob": "2022-12-31",
+      "department": "hr",
+      "position": 2,
+      "name": "d",
+      "address": "aaaaa",
+      "createdAt": "2022-12-01T09:52:27.910Z",
+      "id": 9
     }
   ]
 }

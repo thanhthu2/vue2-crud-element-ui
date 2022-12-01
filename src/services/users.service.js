@@ -21,3 +21,12 @@ export async function deleteUser(id) {
     url: `users/${id}`,
   });
 }
+
+export async function editUser(data) {
+  const { id } = data;
+  return await transformRequest({
+    method: "put",
+    url: `users/${id}`,
+    data,
+  });
+}
